@@ -53,18 +53,6 @@ Análise de regressão entre quantidade de avaliações e quantidade vendida.
 
 ---
 
-## Estrutura do Projeto
-
-```text
-.
-├── dashboard_ecommerce.py
-├── ecommerce_estatistica.csv
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Instalação
 
 Clone o repositório:
